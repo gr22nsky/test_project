@@ -1,4 +1,4 @@
-# LangChain AI Foreign Friend Test
+# LangChain AI Test
 
 ## I. 서론
 
